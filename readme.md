@@ -11,7 +11,7 @@ UGF.Module.Factory
 ### Dependencies
 
 - [UGF.Module](https://github.com/unity-game-framework/ugf-module): `0.1.0-preview`
-- [UGF.Module.Factory](https://github.com/unity-game-framework/ugf-factory): `2.1.0-preview`
+- [UGF.Factory](https://github.com/unity-game-framework/ugf-factory): `2.1.0-preview`
 
 ### Changelog
 
